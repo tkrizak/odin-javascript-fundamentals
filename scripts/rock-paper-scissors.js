@@ -70,6 +70,7 @@ function game() {
   } else {
     console.log("It's a tie.");
   }
+
   let score = `Player ${scorePlayer} : ${scoreComputer} Computer`;
   console.log(score);
 }
